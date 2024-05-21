@@ -3,7 +3,6 @@ import os
 from dotenv import load_dotenv
 from colorama import Fore, Style, init
 
-# Initialize colorama
 init(autoreset=True)
 
 class ColorFormatter(logging.Formatter):
