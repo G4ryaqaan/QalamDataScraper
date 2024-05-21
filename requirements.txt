@@ -1,0 +1,9 @@
+bs4
+abc
+pandas
+typing 
+requests
+colorama
+logging
+dotenv
+os
